@@ -1,8 +1,8 @@
-# Tik-Tok-Clone---2
+<h1 align="center">Tik-Tok-Clone</h1>
 
 Build a Social Media App using Document APIs and a NoSQL Database
 
-    https://www.youtube.com/watch?v=2451YCgzxVI
+    [https://www.youtube.com/watch?v=2451YCgzxVI](https://www.youtube.com/watch?v=2451YCgzxVI)
 
 FINAL APP
 
